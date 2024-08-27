@@ -1,9 +1,41 @@
-# React + Vite
+# Quiz App React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Welcome to the project!
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# quiz-app-react-
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Running the App](#running-the-app)
+
+## Prerequisites
+
+Before you get started, ensure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (version 16 or later recommended)
+- [Yarn](https://yarnpkg.com/) (for package management)
+
+## Installation
+
+1. **Clone the Repository**
+
+   First, clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/dmasifur/react-responsive-portfolio
+   cd your-repo
+
+   ```
+
+ ## Install Dependencies
+
+   ```bash
+   yarn install
+
+   ```
+## Running the App
+
+   ```bash
+   yarn dev
+   
+   ```
